@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251220 07:49:50,url
+20251221 07:50:22,url
 
 
 freetv,#genre#
@@ -78,7 +78,6 @@ CCTV2,https://stream1.freetv.fun/cctv2-72.m3u8$[BD]cctv2
 CCTV3,https://stream1.freetv.fun/cctv-3gao-qing-2.m3u8$[BD]cctv-3高清
 CCTV3,https://stream1.freetv.fun/cctv3-11.ctv$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-13.ctv$[BD]cctv3
-CCTV3,https://stream1.freetv.fun/cctv3-15.m3u8$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-35.ctv$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-50.m3u8$[BD]cctv3
 CCTV3,https://stream1.freetv.fun/cctv3-56.m3u8$[BD]cctv3
@@ -189,7 +188,6 @@ tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-5.m3u8$[BD]tvbs歡樂
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-7.m3u8$[BD]tvbs歡樂
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-8.m3u8$[BD]tvbs歡樂
 tvbs歡樂,https://stream1.freetv.fun/tvbshuan-le-9.m3u8$[BD]tvbs歡樂
-tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-3.ctv$[BD]三沙卫视
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-40.ctv$[BD]三沙卫视
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-57.ctv$[BD]三沙卫视
@@ -698,6 +696,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-4.m3u8$[BD]影迷數位電影
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-5.m3u8$[BD]影迷數位電影
 影迷數位電影,https://stream1.freetv.fun/ying-mi-shu-wei-dian-ying-9.m3u8$[BD]影迷數位電影
+揭阳综合,https://stream1.freetv.fun/jie-yang-zong-he-3.m3u8$[BD]揭阳综合
 新乡县新闻综合频道,https://stream1.freetv.fun/xin-xiang-xian-xin-wen-zong-he-1.m3u8$[BD]新乡县新闻综合频道
 新乡综合,https://stream1.freetv.fun/xin-xiang-zong-he-1.m3u8$[BD]新乡综合
 新县新闻综合,https://stream1.freetv.fun/xin-xian-xin-wen-zong-he-1.m3u8$[BD]新县新闻综合
@@ -847,6 +846,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-6.ctv$[HD]tvb星河
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-38.ctv$[BD]河北卫视
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-56.ctv$[BD]河北卫视
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-64.m3u8$[BD]河北卫视
+河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-7.m3u8$[BD]河北卫视
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-83.ctv$[BD]河北卫视
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-87.m3u8$[BD]河北卫视
 河北卫视,https://stream1.freetv.fun/he-bei-wei-shi-89.ctv$[BD]河北卫视
